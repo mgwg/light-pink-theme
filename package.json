@@ -1,31 +1,36 @@
 {
-    "name": "light-pink-theme",
-    "displayName": "Light Pink Theme",
-    "publisher": "mgwg",
-    "description": "A simple light pink theme.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
+	"name": "light-pink-theme",
+	"displayName": "Light Pink Theme",
+	"publisher": "mgwg",
+	"description": "A simple light pink theme.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
 	"keywords": [
 		"light",
 		"pink"
 	],
 	"icon": "images/icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Light Pink",
-                "uiTheme": "vs",
-                "path": "./themes/Light Pink-color-theme.json"
-            }
-        ]
-    },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light Pink",
+				"uiTheme": "vs",
+				"path": "./themes/Light Pink-color-theme.json"
+			}
+		]
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mgwg/light-pink-theme"
+	},
+	"__metadata": {
+		"id": "42146fba-c86e-4732-942a-d4b8e3f8fcf4",
+		"publisherDisplayName": "mgwg",
+		"publisherId": "269a2614-6976-40c3-ac42-46d927014857"
 	}
 }
