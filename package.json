@@ -12,10 +12,7 @@
     ],
 	"keywords": [
 		"light",
-		"purple",
-		"pink",
-		"floral",
-		"soft"
+		"pink"
 	],
 	"icon": "images/icon.png",
     "contributes": {
@@ -26,5 +23,9 @@
                 "path": "./themes/Light Pink-color-theme.json"
             }
         ]
-    }
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mgwg/light-pink-theme"
+	}
 }
