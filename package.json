@@ -15,6 +15,10 @@
 		"pink"
 	],
 	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#F4D5DC",
+		"theme": "light"
+	},
 	"contributes": {
 		"themes": [
 			{
