@@ -1,2 +1,2 @@
 ## Pink Theme
-A light pink theme adapted from Quiet Light.
+A light pink theme adapted from default light theme.

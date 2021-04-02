@@ -1,15 +1,23 @@
 {
     "name": "light-pink-theme",
     "displayName": "Light Pink Theme",
+    "publisher": "mgwg",
     "description": "A simple light pink theme.",
     "version": "0.0.1",
-    "publisher": "mgwg",
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
     ],
+	"keywords": [
+		"light",
+		"purple",
+		"pink",
+		"floral",
+		"soft"
+	],
+	"icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
