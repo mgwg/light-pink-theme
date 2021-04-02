@@ -1,0 +1,22 @@
+{
+    "name": "light-pink-theme",
+    "displayName": "Light Pink Theme",
+    "description": "A simple light pink theme.",
+    "version": "0.0.1",
+    "publisher": "mgwg",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Pink",
+                "uiTheme": "vs",
+                "path": "./themes/Light Pink-color-theme.json"
+            }
+        ]
+    }
+}
