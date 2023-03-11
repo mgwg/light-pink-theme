@@ -26,7 +26,7 @@
 		"inputOption.activeBorder":"#adafb7",
 		"dropdown.background":"#F5F5F5",
 		"editor.findMatchBackground":"#F3D5B9",
-		"editor.findMatchHighlightBackground":"#FBE0C5",
+		"editor.findMatchHighlightBackground":"#FBE0C599",
 		"peekViewEditor.matchHighlightBackground":"#C2DFE3",
 		"peekViewTitle.background":"#F2F8FC",
 		"peekViewEditor.background":"#F2F8FC",
