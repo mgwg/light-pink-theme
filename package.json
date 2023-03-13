@@ -3,7 +3,7 @@
 	"displayName": "Light Pink Theme",
 	"publisher": "mgwg",
 	"description": "A simple light pink theme.",
-	"version": "0.3.1",
+	"version": "0.4.0",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
