@@ -25,6 +25,11 @@
 				"label": "Light Pink",
 				"uiTheme": "vs",
 				"path": "./themes/Light Pink-color-theme.json"
+			},
+			{
+				"label": "Dark Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Pink-color-theme.json"
 			}
 		]
 	},
